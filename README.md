@@ -2,7 +2,7 @@
 - 👀 I’m interested in privacy and cybersecurity 
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on interesting things
-- 📫 How to reach me mastodon.social/@kcarruthers
+- 📫 How to reach me carruthk@ieee.org
 
 <!---
 katecarruthers/katecarruthers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
